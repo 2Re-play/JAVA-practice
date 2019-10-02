@@ -9,6 +9,8 @@
 * 모든 객체는 **동적할당**으로 만들어진다.
 * static method 안에는 **static 멤버만 접근 가능**
 * static method는 **this**를 사용할 수 없다.
+---
+###상속
 
 
 
