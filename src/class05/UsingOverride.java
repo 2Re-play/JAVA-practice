@@ -1,5 +1,6 @@
 package class05;
 
+
 class Shape {
 
     public Shape next;
